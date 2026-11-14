@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\lenguajesInterfaz\\practicasU3_github\\02_procedimientos_anidados\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C8812B56-74D7-4935-BA7E-93594FD04EB2}|02_procedimientos_anidados\\02_procedimientos_anidados.vcxproj|C:\\lenguajesInterfaz\\practicasU3_github\\02_procedimientos_anidados\\02_procedimientos_anidados\\main.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C8812B56-74D7-4935-BA7E-93594FD04EB2}|02_procedimientos_anidados\\02_procedimientos_anidados.vcxproj|solutionrelative:02_procedimientos_anidados\\main.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.asm",
+              "DocumentMoniker": "C:\\lenguajesInterfaz\\practicasU3_github\\02_procedimientos_anidados\\02_procedimientos_anidados\\main.asm",
+              "RelativeDocumentMoniker": "02_procedimientos_anidados\\main.asm",
+              "ToolTip": "C:\\lenguajesInterfaz\\practicasU3_github\\02_procedimientos_anidados\\02_procedimientos_anidados\\main.asm",
+              "RelativeToolTip": "02_procedimientos_anidados\\main.asm",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-11-14T06:52:53.579Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

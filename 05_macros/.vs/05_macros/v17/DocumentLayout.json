@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\lenguajesInterfaz\\practicasU3_github\\05_macros\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C9D8A093-836E-4F9F-9D0B-C1030B5EE5BE}|05_macros\\05_macros.vcxproj|C:\\lenguajesInterfaz\\practicasU3_github\\05_macros\\05_macros\\main.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C9D8A093-836E-4F9F-9D0B-C1030B5EE5BE}|05_macros\\05_macros.vcxproj|solutionrelative:05_macros\\main.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.asm",
+              "DocumentMoniker": "C:\\lenguajesInterfaz\\practicasU3_github\\05_macros\\05_macros\\main.asm",
+              "RelativeDocumentMoniker": "05_macros\\main.asm",
+              "ToolTip": "C:\\lenguajesInterfaz\\practicasU3_github\\05_macros\\05_macros\\main.asm",
+              "RelativeToolTip": "05_macros\\main.asm",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-11-14T06:56:04.214Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

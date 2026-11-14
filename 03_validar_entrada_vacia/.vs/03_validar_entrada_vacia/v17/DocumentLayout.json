@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\lenguajesInterfaz\\practicasU3_github\\03_validar_entrada_vacia\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{93F6FF96-CF46-4D35-BA49-4A31C9EC46CF}|03_validar_entrada_vacia\\03_validar_entrada_vacia.vcxproj|C:\\lenguajesInterfaz\\practicasU3_github\\03_validar_entrada_vacia\\03_validar_entrada_vacia\\main.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{93F6FF96-CF46-4D35-BA49-4A31C9EC46CF}|03_validar_entrada_vacia\\03_validar_entrada_vacia.vcxproj|solutionrelative:03_validar_entrada_vacia\\main.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.asm",
+              "DocumentMoniker": "C:\\lenguajesInterfaz\\practicasU3_github\\03_validar_entrada_vacia\\03_validar_entrada_vacia\\main.asm",
+              "RelativeDocumentMoniker": "03_validar_entrada_vacia\\main.asm",
+              "ToolTip": "C:\\lenguajesInterfaz\\practicasU3_github\\03_validar_entrada_vacia\\03_validar_entrada_vacia\\main.asm",
+              "RelativeToolTip": "03_validar_entrada_vacia\\main.asm",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-11-14T06:53:53.261Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
